@@ -1,0 +1,25 @@
+{
+  "name": "gerador_de_dados-servico",
+  "version": "1.0.0",
+  "description": "Serviço de geração de dados baseada no site 'https://www.4devs.com.br'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisonGorgonho/gerador_de_dados-servico.git"
+  },
+  "author": "Alison Gorgonho <alisongorgonho@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonGorgonho/gerador_de_dados-servico/issues"
+  },
+  "homepage": "https://github.com/AlisonGorgonho/gerador_de_dados-servico#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {}
+}
